@@ -1,0 +1,11 @@
+[28-Dec-2025 06:36:44 UTC] PHP Notice:  Undefined index: v_ctrl_name in /home2/sapphire/innovate.sapphirebh.com/controller/unit/unit_controller.php on line 20
+[28-Dec-2025 06:36:44 UTC] PHP Notice:  Undefined index: v_unit_id in /home2/sapphire/innovate.sapphirebh.com/controller/unit/unit_controller.php on line 22
+[28-Dec-2025 06:36:44 UTC] PHP Notice:  Undefined index: v_unit in /home2/sapphire/innovate.sapphirebh.com/controller/unit/unit_controller.php on line 23
+[28-Dec-2025 09:36:44 Asia/Bahrain] PHP Notice:  Undefined property: unit_controller::$subject_name_text in /home2/sapphire/innovate.sapphirebh.com/controller/unit/unit_controller.php on line 29
+[28-Dec-2025 06:36:51 UTC] PHP Notice:  Undefined index: v_ctrl_name in /home2/sapphire/innovate.sapphirebh.com/controller/unit/unit_controller.php on line 20
+[28-Dec-2025 06:36:51 UTC] PHP Notice:  Undefined index: v_unit_id in /home2/sapphire/innovate.sapphirebh.com/controller/unit/unit_controller.php on line 22
+[28-Dec-2025 06:36:51 UTC] PHP Notice:  Undefined index: v_unit in /home2/sapphire/innovate.sapphirebh.com/controller/unit/unit_controller.php on line 23
+[28-Dec-2025 09:36:51 Asia/Bahrain] PHP Notice:  Undefined property: unit_controller::$subject_name_text in /home2/sapphire/innovate.sapphirebh.com/controller/unit/unit_controller.php on line 29
+[28-Dec-2025 06:37:08 UTC] PHP Notice:  Undefined index: v_ctrl_name in /home2/sapphire/innovate.sapphirebh.com/controller/unit/unit_controller.php on line 20
+[28-Dec-2025 06:37:08 UTC] PHP Notice:  Undefined index: v_unit_id in /home2/sapphire/innovate.sapphirebh.com/controller/unit/unit_controller.php on line 22
+[28-Dec-2025 09:37:08 Asia/Bahrain] PHP Notice:  Undefined property: unit_controller::$subject_name_text in /home2/sapphire/innovate.sapphirebh.com/controller/unit/unit_controller.php on line 29

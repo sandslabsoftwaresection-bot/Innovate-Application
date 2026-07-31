@@ -1,0 +1,30 @@
+RewriteEngine on
+
+# Allow only the specified IP
+RewriteCond %{REMOTE_ADDR} !^87\.237\.192\.197$
+RewriteCond %{REMOTE_ADDR} !^103\.203\.72\.118$
+RewriteCond %{REMOTE_ADDR} !^88\.201\.42\.115$
+RewriteCond %{REMOTE_ADDR} !^117\.221\.65\.74$
+RewriteCond %{REMOTE_ADDR} !^117\.193\.32\.33$
+RewriteCond %{REMOTE_ADDR} !^109\.161\.166\.242$
+RewriteCond %{REMOTE_ADDR} !^109\.63\.9\.243$
+RewriteCond %{REMOTE_ADDR} !^103\.203\.72\.195$
+RewriteCond %{REMOTE_ADDR} !^120\.61\.184\.118$
+RewriteCond %{REMOTE_ADDR} !^94\.76\.14\.180$
+RewriteCond %{REMOTE_ADDR} !^46\.184\.210\.237$
+RewriteCond %{REMOTE_ADDR} !^88\.201\.24\.167$
+RewriteCond %{REMOTE_ADDR} !^89\.148\.40\.229$
+RewriteCond %{REMOTE_ADDR} !^46\.184\.209\.225$
+RewriteCond %{REMOTE_ADDR} !^109\.161\.220\.14$
+
+
+ 
+RewriteRule ^.*$ https://sapphirebh.com/access.php [R=302,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “alt-php74” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-alt-php74 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
+php_value auto_prepend_file /home2/sapphire/ssl/ssl.php

@@ -1,0 +1,797 @@
+[24-Jun-2025 12:07:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[24-Jun-2025 12:07:04 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[24-Jun-2025 12:07:04 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[24-Jun-2025 12:07:04 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[24-Jun-2025 12:09:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[24-Jun-2025 12:09:21 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[24-Jun-2025 12:09:21 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[24-Jun-2025 12:09:21 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[24-Jun-2025 12:09:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[24-Jun-2025 12:09:50 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[24-Jun-2025 12:09:50 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[24-Jun-2025 12:09:50 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[24-Jun-2025 12:10:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[24-Jun-2025 12:10:46 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[24-Jun-2025 12:10:46 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[24-Jun-2025 12:10:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[24-Jun-2025 12:11:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[24-Jun-2025 12:11:25 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[24-Jun-2025 12:11:25 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[24-Jun-2025 12:11:25 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[24-Jun-2025 12:12:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[24-Jun-2025 12:12:08 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[24-Jun-2025 12:12:08 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[24-Jun-2025 12:12:08 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[24-Jun-2025 12:12:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[24-Jun-2025 12:12:27 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[24-Jun-2025 12:12:27 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[24-Jun-2025 12:12:27 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[24-Jun-2025 12:13:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[24-Jun-2025 12:13:07 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[24-Jun-2025 12:13:07 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[24-Jun-2025 12:13:07 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[24-Jun-2025 12:13:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[24-Jun-2025 12:13:29 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[24-Jun-2025 12:13:29 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[24-Jun-2025 12:13:29 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[24-Jun-2025 12:17:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[24-Jun-2025 12:17:51 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[24-Jun-2025 12:17:51 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[24-Jun-2025 12:17:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[25-Jun-2025 04:16:39 UTC] PHP Notice:  Undefined index: LOGINSTATUS in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 4
+[07-Jul-2025 12:40:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[07-Jul-2025 12:40:46 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[07-Jul-2025 12:40:46 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[07-Jul-2025 12:40:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[07-Jul-2025 12:41:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[07-Jul-2025 12:41:33 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[07-Jul-2025 12:41:33 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[07-Jul-2025 12:41:33 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[09-Jul-2025 08:05:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Jul-2025 08:05:06 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[09-Jul-2025 08:05:07 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[09-Jul-2025 08:05:07 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[09-Jul-2025 08:06:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Jul-2025 08:06:05 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[09-Jul-2025 08:06:05 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[09-Jul-2025 08:06:05 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[10-Jul-2025 05:03:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Jul-2025 05:03:35 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[10-Jul-2025 05:03:35 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[10-Jul-2025 05:03:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[14-Jul-2025 06:47:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[14-Jul-2025 06:47:20 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[14-Jul-2025 06:47:20 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 282
+[14-Jul-2025 06:47:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 287
+[15-Jul-2025 06:48:19 UTC] PHP Notice:  Undefined index: LOGINSTATUS in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 4
+[15-Jul-2025 09:37:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[15-Jul-2025 09:37:46 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 85
+[15-Jul-2025 09:37:46 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 177
+[15-Jul-2025 09:37:46 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 457
+[15-Jul-2025 09:37:46 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 76
+[15-Jul-2025 09:40:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[15-Jul-2025 09:40:46 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[15-Jul-2025 09:40:46 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 283
+[15-Jul-2025 09:40:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 288
+[15-Jul-2025 10:12:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[15-Jul-2025 10:12:07 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 85
+[15-Jul-2025 10:12:07 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 177
+[15-Jul-2025 10:12:07 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 457
+[15-Jul-2025 10:12:07 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 76
+[15-Jul-2025 10:48:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[15-Jul-2025 10:48:56 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 85
+[15-Jul-2025 10:48:56 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 177
+[15-Jul-2025 10:48:56 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 457
+[15-Jul-2025 10:48:56 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 76
+[15-Jul-2025 11:23:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[15-Jul-2025 11:23:53 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 85
+[15-Jul-2025 11:23:53 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 177
+[15-Jul-2025 11:23:53 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 457
+[15-Jul-2025 11:23:53 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 76
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 85
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 110
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 111
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 113
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 138
+[21-Jul-2025 05:16:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 139
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 286
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 298
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[21-Jul-2025 05:16:04 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 76
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 85
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 110
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 111
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 113
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 138
+[21-Jul-2025 05:17:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 139
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 286
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 298
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[21-Jul-2025 05:17:02 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 76
+[21-Jul-2025 08:03:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Jul-2025 08:03:56 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 85
+[21-Jul-2025 08:03:56 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 177
+[21-Jul-2025 08:03:56 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 457
+[21-Jul-2025 08:03:56 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 76
+[21-Jul-2025 08:04:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Jul-2025 08:04:55 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 85
+[21-Jul-2025 08:04:55 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 177
+[21-Jul-2025 08:04:55 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 476
+[21-Jul-2025 08:04:55 UTC] PHP Notice:  Undefined variable: intern_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 673
+[21-Jul-2025 08:04:55 UTC] PHP Notice:  Undefined variable: bank in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 815
+[21-Jul-2025 08:04:55 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 78
+[21-Jul-2025 08:06:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Jul-2025 08:06:13 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 85
+[21-Jul-2025 08:06:13 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 177
+[21-Jul-2025 08:06:13 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 457
+[21-Jul-2025 08:06:13 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 76
+[21-Jul-2025 08:08:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Jul-2025 08:08:32 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 85
+[21-Jul-2025 08:08:32 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 177
+[21-Jul-2025 08:08:32 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 476
+[21-Jul-2025 08:08:32 UTC] PHP Notice:  Undefined variable: intern_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 673
+[21-Jul-2025 08:08:32 UTC] PHP Notice:  Undefined variable: bank in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 815
+[21-Jul-2025 08:08:33 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 78
+[21-Jul-2025 08:09:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Jul-2025 08:09:24 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 85
+[21-Jul-2025 08:09:24 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 177
+[21-Jul-2025 08:09:24 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 457
+[21-Jul-2025 08:09:24 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 76
+[21-Jul-2025 08:10:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Jul-2025 08:10:11 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 85
+[21-Jul-2025 08:10:11 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 177
+[21-Jul-2025 08:10:11 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 476
+[21-Jul-2025 08:10:11 UTC] PHP Notice:  Undefined variable: intern_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 673
+[21-Jul-2025 08:10:11 UTC] PHP Notice:  Undefined variable: bank in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 815
+[21-Jul-2025 08:10:11 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 78
+[21-Jul-2025 08:12:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Jul-2025 08:12:48 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 85
+[21-Jul-2025 08:12:49 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 177
+[21-Jul-2025 08:12:49 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 457
+[21-Jul-2025 08:12:49 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 76
+[21-Jul-2025 08:13:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Jul-2025 08:13:20 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 85
+[21-Jul-2025 08:13:20 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 177
+[21-Jul-2025 08:13:20 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 476
+[21-Jul-2025 08:13:20 UTC] PHP Notice:  Undefined variable: intern_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 673
+[21-Jul-2025 08:13:20 UTC] PHP Notice:  Undefined variable: bank in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 815
+[21-Jul-2025 08:13:21 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 78
+[22-Jul-2025 07:33:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[22-Jul-2025 07:33:51 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 85
+[22-Jul-2025 07:33:51 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 177
+[22-Jul-2025 07:33:51 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 457
+[22-Jul-2025 07:33:51 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/interim_print.php on line 76
+[22-Jul-2025 07:42:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[22-Jul-2025 07:42:03 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 85
+[22-Jul-2025 07:42:04 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 177
+[22-Jul-2025 07:42:04 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 476
+[22-Jul-2025 07:42:04 UTC] PHP Notice:  Undefined variable: intern_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 673
+[22-Jul-2025 07:42:04 UTC] PHP Notice:  Undefined variable: bank in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 815
+[22-Jul-2025 07:42:04 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 78
+[29-Jul-2025 06:15:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[29-Jul-2025 06:15:19 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 85
+[29-Jul-2025 06:15:19 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 177
+[29-Jul-2025 06:15:19 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 476
+[29-Jul-2025 06:15:19 UTC] PHP Notice:  Undefined variable: intern_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 673
+[29-Jul-2025 06:15:19 UTC] PHP Notice:  Undefined variable: bank in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 815
+[29-Jul-2025 06:15:19 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 78
+[30-Jul-2025 08:41:37 UTC] PHP Notice:  Undefined index: LOGINSTATUS in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 4
+[09-Aug-2025 07:55:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Aug-2025 07:55:59 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 96
+[09-Aug-2025 07:55:59 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 272
+[09-Aug-2025 07:55:59 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 281
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 85
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 110
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 111
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 113
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 138
+[11-Aug-2025 05:00:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 139
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 286
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 298
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[11-Aug-2025 05:00:08 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 76
+[11-Aug-2025 09:35:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[11-Aug-2025 09:35:39 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[11-Aug-2025 09:35:39 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 283
+[11-Aug-2025 09:35:39 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 288
+[13-Aug-2025 06:37:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[13-Aug-2025 06:37:17 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 96
+[13-Aug-2025 06:37:17 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 272
+[13-Aug-2025 06:37:17 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 281
+[13-Aug-2025 06:38:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[13-Aug-2025 06:38:22 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[13-Aug-2025 06:38:22 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 283
+[13-Aug-2025 06:38:22 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 288
+[21-Aug-2025 05:26:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Aug-2025 05:26:18 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 96
+[21-Aug-2025 05:26:18 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 272
+[21-Aug-2025 05:26:18 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 281
+[21-Aug-2025 09:16:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Aug-2025 09:16:33 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 85
+[21-Aug-2025 09:16:34 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 177
+[21-Aug-2025 09:16:34 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 476
+[21-Aug-2025 09:16:34 UTC] PHP Notice:  Undefined variable: intern_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 673
+[21-Aug-2025 09:16:34 UTC] PHP Notice:  Undefined variable: bank in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 815
+[21-Aug-2025 09:16:34 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 78
+[21-Aug-2025 09:53:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[21-Aug-2025 09:53:49 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_received_new.php on line 69
+[21-Aug-2025 09:53:49 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_received_new.php on line 266
+[02-Sep-2025 10:59:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[02-Sep-2025 10:59:47 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 85
+[02-Sep-2025 10:59:47 UTC] PHP Notice:  Undefined index: x in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 47
+[02-Sep-2025 10:59:47 UTC] PHP Notice:  Undefined offset: 1 in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 295
+[02-Sep-2025 10:59:47 UTC] PHP Notice:  Undefined offset: 1 in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 299
+[02-Sep-2025 10:59:47 UTC] PHP Notice:  Undefined offset: 1 in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 304
+[02-Sep-2025 10:59:47 UTC] PHP Notice:  Undefined variable: balance_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 423
+[02-Sep-2025 10:59:47 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 76
+[02-Sep-2025 11:18:22 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:18:22 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:18:22 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:21:30 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:21:30 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:21:30 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:23:26 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:23:26 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:23:26 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:27:09 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:27:09 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:27:09 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:27:59 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:27:59 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:27:59 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:28:33 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:28:33 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:28:33 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:29:48 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:29:48 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:29:48 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:33:01 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:33:01 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:33:01 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:33:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[02-Sep-2025 11:33:22 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 85
+[02-Sep-2025 11:33:22 UTC] PHP Notice:  Undefined index: x in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 47
+[02-Sep-2025 11:33:22 UTC] PHP Notice:  Undefined offset: 1 in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 295
+[02-Sep-2025 11:33:22 UTC] PHP Notice:  Undefined offset: 1 in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 299
+[02-Sep-2025 11:33:22 UTC] PHP Notice:  Undefined offset: 1 in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 304
+[02-Sep-2025 11:33:22 UTC] PHP Notice:  Undefined variable: balance_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 423
+[02-Sep-2025 11:33:22 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/payment_scheule.php on line 76
+[02-Sep-2025 11:33:49 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:33:49 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[02-Sep-2025 11:33:49 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:25:05 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:25:05 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:25:05 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:27:38 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:27:38 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:27:38 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:31:18 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:31:18 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:31:18 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:32:34 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:32:34 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:32:34 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:33:27 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:33:27 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:33:27 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:40:38 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:40:38 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:40:38 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:40:38 UTC] PHP Notice:  Undefined index: LOGINSTATUS in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 4
+[03-Sep-2025 04:51:10 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:51:10 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:51:10 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:54:36 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:54:36 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:54:36 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:55:17 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:55:17 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 04:55:17 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:18:00 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:18:00 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:18:00 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:18:58 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:18:58 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:18:58 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:26:56 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:26:56 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:26:56 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:28:43 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:28:43 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:28:43 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:36:35 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:36:35 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:36:35 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:38:47 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:38:47 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:38:47 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:39:27 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:39:27 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:39:27 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:39:59 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:39:59 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:39:59 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:40:10 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:40:10 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:40:10 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:40:21 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:40:21 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:40:21 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:41:30 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:41:30 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:41:30 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:46:47 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:46:47 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 06:46:47 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 07:19:04 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 07:19:04 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 07:19:04 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 08:47:04 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 08:47:04 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 08:47:04 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 08:47:14 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 08:47:14 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 08:47:14 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 09:46:17 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 09:46:17 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 09:46:17 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:13:55 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:13:55 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:13:55 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:16:01 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:16:01 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:16:01 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:17:20 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:17:20 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:17:20 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:20:07 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:20:07 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:20:07 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:20:11 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:20:11 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:20:11 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:36:34 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:36:34 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:36:34 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:48:02 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:48:02 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:48:02 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:49:47 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:49:47 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 10:49:47 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:37:59 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:37:59 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:37:59 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:37:59 UTC] PHP Notice:  Undefined index: LOGINSTATUS in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 4
+[03-Sep-2025 11:38:17 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:38:17 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:38:17 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:42:02 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:42:02 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:42:02 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:43:24 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:43:24 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:43:24 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:45:09 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:45:09 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:45:09 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:46:51 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:46:51 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:46:51 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:47:32 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:47:32 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:47:32 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:48:20 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:48:20 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:48:20 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:48:41 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:48:41 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:48:41 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:49:07 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:49:07 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:49:07 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:49:26 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:49:26 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:49:26 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:49:47 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:49:47 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:49:47 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:50:00 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:50:00 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:50:00 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:50:48 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:50:48 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:50:48 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:52:38 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:52:38 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 11:52:38 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:02:12 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:02:12 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:02:12 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:04:54 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:04:54 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:04:54 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:06:29 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:06:29 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:06:29 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:07:07 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:07:07 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:07:07 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:11:15 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:11:15 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[03-Sep-2025 12:11:15 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[07-Sep-2025 06:30:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[07-Sep-2025 06:30:48 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 96
+[07-Sep-2025 06:30:48 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 272
+[07-Sep-2025 06:30:48 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 281
+[07-Sep-2025 06:33:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[07-Sep-2025 06:33:02 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[07-Sep-2025 06:33:02 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 283
+[07-Sep-2025 06:33:02 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 288
+[07-Sep-2025 06:33:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[07-Sep-2025 06:33:25 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/work_ordernew.php on line 85
+[07-Sep-2025 06:33:25 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/work_ordernew.php on line 114
+[07-Sep-2025 06:33:25 UTC] PHP Notice:  Undefined variable: invoice_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/work_ordernew.php on line 152
+[07-Sep-2025 06:33:25 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/work_ordernew.php on line 225
+[07-Sep-2025 06:33:25 UTC] PHP Notice:  Undefined variable: td_note in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/work_ordernew.php on line 250
+[07-Sep-2025 06:33:26 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/work_ordernew.php on line 76
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 85
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 110
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 111
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 113
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 138
+[07-Sep-2025 06:35:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 139
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 286
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 298
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[07-Sep-2025 06:35:31 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 76
+[08-Sep-2025 07:07:45 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[08-Sep-2025 07:07:45 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[08-Sep-2025 07:07:45 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[09-Sep-2025 04:35:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Sep-2025 04:35:30 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 96
+[09-Sep-2025 04:35:30 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 272
+[09-Sep-2025 04:35:30 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 281
+[09-Sep-2025 04:38:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Sep-2025 04:38:09 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 85
+[09-Sep-2025 04:38:09 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 177
+[09-Sep-2025 04:38:09 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 476
+[09-Sep-2025 04:38:09 UTC] PHP Notice:  Undefined variable: intern_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 673
+[09-Sep-2025 04:38:09 UTC] PHP Notice:  Undefined variable: bank in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 815
+[09-Sep-2025 04:38:09 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 78
+[09-Sep-2025 04:46:25 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[09-Sep-2025 04:46:25 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[09-Sep-2025 04:46:25 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[09-Sep-2025 04:47:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Sep-2025 04:47:46 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 96
+[09-Sep-2025 04:47:46 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 272
+[09-Sep-2025 04:47:46 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 281
+[09-Sep-2025 04:51:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Sep-2025 04:51:06 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 85
+[09-Sep-2025 04:51:06 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 177
+[09-Sep-2025 04:51:06 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 476
+[09-Sep-2025 04:51:06 UTC] PHP Notice:  Undefined variable: intern_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 673
+[09-Sep-2025 04:51:06 UTC] PHP Notice:  Undefined variable: bank in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 815
+[09-Sep-2025 04:51:06 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 78
+[09-Sep-2025 04:55:29 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[09-Sep-2025 04:55:29 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[09-Sep-2025 04:55:29 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[09-Sep-2025 07:27:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Sep-2025 07:27:56 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[09-Sep-2025 07:27:57 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 283
+[09-Sep-2025 07:27:57 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 288
+[09-Sep-2025 07:28:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Sep-2025 07:28:18 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[09-Sep-2025 07:28:19 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 283
+[09-Sep-2025 07:28:19 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 288
+[09-Sep-2025 07:32:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Sep-2025 07:32:24 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 85
+[09-Sep-2025 07:32:25 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 110
+[09-Sep-2025 07:32:25 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 111
+[09-Sep-2025 07:32:25 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 113
+[09-Sep-2025 07:32:25 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 138
+[09-Sep-2025 07:32:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 139
+[09-Sep-2025 07:32:25 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 286
+[09-Sep-2025 07:32:25 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 298
+[09-Sep-2025 07:32:25 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[09-Sep-2025 07:32:25 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[09-Sep-2025 07:32:25 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[09-Sep-2025 07:32:25 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[09-Sep-2025 07:32:25 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 76
+[09-Sep-2025 07:32:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Sep-2025 07:32:39 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 85
+[09-Sep-2025 07:32:40 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 110
+[09-Sep-2025 07:32:40 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 111
+[09-Sep-2025 07:32:40 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 113
+[09-Sep-2025 07:32:40 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 138
+[09-Sep-2025 07:32:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 139
+[09-Sep-2025 07:32:40 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 286
+[09-Sep-2025 07:32:40 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 298
+[09-Sep-2025 07:32:40 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[09-Sep-2025 07:32:40 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[09-Sep-2025 07:32:40 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[09-Sep-2025 07:32:40 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[09-Sep-2025 07:32:40 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 76
+[09-Sep-2025 07:38:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Sep-2025 07:38:33 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_received_new.php on line 69
+[09-Sep-2025 07:38:33 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_received_new.php on line 266
+[09-Sep-2025 07:38:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Sep-2025 07:38:41 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_received_new.php on line 69
+[09-Sep-2025 07:38:41 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_received_new.php on line 266
+[10-Sep-2025 08:31:02 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 08:31:02 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 08:31:02 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:05:29 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:05:29 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:05:29 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:11:18 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:11:18 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:11:18 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:19:08 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:19:08 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:19:08 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:25:01 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:25:01 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:25:01 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:30:28 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:30:28 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:30:28 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:45:33 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:45:33 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:45:33 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:45:43 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:45:43 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 09:45:43 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 10:59:00 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 10:59:00 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 10:59:00 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 10:59:00 UTC] PHP Notice:  Undefined index: LOGINSTATUS in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 4
+[10-Sep-2025 10:59:44 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 10:59:44 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 10:59:44 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:01:10 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:01:10 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:01:10 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:03:29 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:03:29 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:03:29 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:04:16 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:04:16 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:04:16 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 85
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 110
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 111
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 113
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 138
+[10-Sep-2025 11:05:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 139
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 286
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 298
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[10-Sep-2025 11:05:40 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 76
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 85
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 110
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 111
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 113
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 138
+[10-Sep-2025 11:07:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 139
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 286
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 298
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[10-Sep-2025 11:07:05 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 76
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 85
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 110
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 111
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 113
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 138
+[10-Sep-2025 11:09:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 139
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 286
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 298
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[10-Sep-2025 11:09:33 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 76
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 85
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 110
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 111
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 113
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 138
+[10-Sep-2025 11:17:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 139
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 286
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 298
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[10-Sep-2025 11:17:42 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 76
+[10-Sep-2025 11:22:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Sep-2025 11:22:05 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 59
+[10-Sep-2025 11:22:05 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 79
+[10-Sep-2025 11:22:05 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 80
+[10-Sep-2025 11:22:05 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 82
+[10-Sep-2025 11:22:05 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 105
+[10-Sep-2025 11:22:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 106
+[10-Sep-2025 11:22:05 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 273
+[10-Sep-2025 11:22:05 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 275
+[10-Sep-2025 11:24:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Sep-2025 11:24:06 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 59
+[10-Sep-2025 11:24:06 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 79
+[10-Sep-2025 11:24:06 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 80
+[10-Sep-2025 11:24:06 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 82
+[10-Sep-2025 11:24:06 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 105
+[10-Sep-2025 11:24:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 106
+[10-Sep-2025 11:24:06 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 273
+[10-Sep-2025 11:24:06 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 275
+[10-Sep-2025 11:25:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Sep-2025 11:25:47 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[10-Sep-2025 11:25:47 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 283
+[10-Sep-2025 11:25:47 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 288
+[10-Sep-2025 11:26:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Sep-2025 11:26:22 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 59
+[10-Sep-2025 11:26:22 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 79
+[10-Sep-2025 11:26:22 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 80
+[10-Sep-2025 11:26:22 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 82
+[10-Sep-2025 11:26:22 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 105
+[10-Sep-2025 11:26:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 106
+[10-Sep-2025 11:26:22 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 266
+[10-Sep-2025 11:26:22 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 268
+[10-Sep-2025 11:27:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Sep-2025 11:27:31 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 59
+[10-Sep-2025 11:27:31 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 79
+[10-Sep-2025 11:27:31 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 80
+[10-Sep-2025 11:27:31 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 82
+[10-Sep-2025 11:27:31 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 105
+[10-Sep-2025 11:27:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 106
+[10-Sep-2025 11:27:31 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 266
+[10-Sep-2025 11:27:31 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 268
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 85
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 110
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 111
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 113
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 138
+[10-Sep-2025 11:28:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 139
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 286
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 298
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 315
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  Undefined variable: total_discount_amount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  Undefined variable: vat_p in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 317
+[10-Sep-2025 11:28:28 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 76
+[10-Sep-2025 11:28:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Sep-2025 11:28:43 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 59
+[10-Sep-2025 11:28:43 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 79
+[10-Sep-2025 11:28:43 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 80
+[10-Sep-2025 11:28:43 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 82
+[10-Sep-2025 11:28:43 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 105
+[10-Sep-2025 11:28:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 106
+[10-Sep-2025 11:28:43 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 266
+[10-Sep-2025 11:28:43 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 268
+[10-Sep-2025 11:29:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[10-Sep-2025 11:29:02 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 59
+[10-Sep-2025 11:29:02 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 79
+[10-Sep-2025 11:29:02 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 80
+[10-Sep-2025 11:29:02 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 82
+[10-Sep-2025 11:29:02 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 105
+[10-Sep-2025 11:29:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 106
+[10-Sep-2025 11:29:02 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 266
+[10-Sep-2025 11:29:02 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 268
+[10-Sep-2025 11:49:30 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:49:30 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:49:30 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:50:10 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:50:10 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:50:10 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:54:13 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:54:13 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:54:13 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:54:41 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:54:41 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:54:41 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:54:55 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:54:55 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:54:55 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:55:22 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:55:22 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:55:22 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:56:00 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:56:00 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:56:00 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:57:18 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:57:18 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 11:57:18 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 12:16:02 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 12:16:02 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 12:16:02 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 13:39:38 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 13:39:38 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 13:39:38 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 13:44:39 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 13:44:39 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[10-Sep-2025 13:44:39 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[11-Sep-2025 04:45:53 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[11-Sep-2025 04:45:53 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[11-Sep-2025 04:45:53 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[24-Sep-2025 09:34:11 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[24-Sep-2025 09:34:11 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[24-Sep-2025 09:34:11 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[04-Oct-2025 08:55:00 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[04-Oct-2025 08:55:00 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[04-Oct-2025 08:55:00 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[09-Oct-2025 10:07:41 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[09-Oct-2025 10:07:41 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[09-Oct-2025 10:07:41 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[09-Oct-2025 10:58:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[09-Oct-2025 10:58:19 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 85
+[09-Oct-2025 10:58:19 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 177
+[09-Oct-2025 10:58:19 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 476
+[09-Oct-2025 10:58:19 UTC] PHP Notice:  Undefined variable: intern_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 673
+[09-Oct-2025 10:58:19 UTC] PHP Notice:  Undefined variable: bank in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 815
+[09-Oct-2025 10:58:19 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/invoice_printnew.php on line 78
+[22-Oct-2025 10:50:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[22-Oct-2025 10:50:56 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/project_report_print.php on line 85
+[22-Oct-2025 10:50:56 UTC] PHP Notice:  Undefined variable: company_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/project_report_print.php on line 297
+[22-Oct-2025 10:50:56 UTC] PHP Notice:  Undefined variable: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/project_report_print.php on line 298
+[22-Oct-2025 10:50:56 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/project_report_print.php on line 333
+[22-Oct-2025 10:50:56 UTC] PHP Notice:  Undefined variable: invoice_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/project_report_print.php on line 362
+[22-Oct-2025 10:50:56 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/project_report_print.php on line 76
+[22-Oct-2025 11:12:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[22-Oct-2025 11:12:39 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/work_ordernew.php on line 85
+[22-Oct-2025 11:12:39 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/work_ordernew.php on line 114
+[22-Oct-2025 11:12:39 UTC] PHP Notice:  Undefined variable: invoice_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/work_ordernew.php on line 152
+[22-Oct-2025 11:12:39 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/work_ordernew.php on line 225
+[22-Oct-2025 11:12:39 UTC] PHP Notice:  Undefined variable: td_note in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/work_ordernew.php on line 250
+[22-Oct-2025 11:12:39 UTC] PHP Notice:  Undefined property: MYPDF::$pageCount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/work_ordernew.php on line 76
+[22-Oct-2025 11:16:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[22-Oct-2025 11:16:08 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 69
+[22-Oct-2025 11:16:08 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 283
+[22-Oct-2025 11:16:08 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 288
+[22-Oct-2025 11:16:08 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_requisitionnew.php on line 288
+[22-Oct-2025 11:30:00 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[22-Oct-2025 11:30:00 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[22-Oct-2025 11:30:00 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[22-Oct-2025 11:30:16 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[22-Oct-2025 11:30:16 UTC] PHP Warning:  include(../../../../session_check.php): failed to open stream: No such file or directory in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[22-Oct-2025 11:30:16 UTC] PHP Warning:  include(): Failed opening '../../../../session_check.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/soa.php on line 2
+[23-Oct-2025 07:57:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[23-Oct-2025 07:57:32 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 96
+[23-Oct-2025 07:57:32 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 272
+[23-Oct-2025 07:57:32 UTC] PHP Notice:  Undefined variable: tot_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/index.php on line 281
+[23-Oct-2025 08:14:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[23-Oct-2025 08:14:15 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 59
+[23-Oct-2025 08:14:15 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 79
+[23-Oct-2025 08:14:15 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 80
+[23-Oct-2025 08:14:15 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 82
+[23-Oct-2025 08:14:15 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 105
+[23-Oct-2025 08:14:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 106
+[23-Oct-2025 08:14:15 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 266
+[23-Oct-2025 08:14:15 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/localpo_new.php on line 268
+[23-Oct-2025 08:28:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/sapphire/staging.sapphirebh.com/view/session_check.php on line 1
+[23-Oct-2025 08:28:08 UTC] PHP Notice:  Undefined index: quotation_number in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_received_new.php on line 69
+[23-Oct-2025 08:28:11 UTC] PHP Notice:  Undefined variable: content in /home2/sapphire/staging.sapphirebh.com/view/reports/pdf/print/purchase_received_new.php on line 266

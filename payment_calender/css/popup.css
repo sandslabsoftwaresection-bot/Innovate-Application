@@ -1,0 +1,178 @@
+  /* Popup overlay */
+  .popup-overlay {
+    display: none; /* Initially hidden */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+  }
+  .popup-header
+  {
+     padding: 10px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+  }
+ /* Popup container */
+  .popup-container {
+    display: none; /* Initially hidden */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+  }
+      .sands-close-button {
+      width: 20px;
+      height: 20px;
+      background-color: #ccc;
+      color: #333;
+      text-align: center;
+      line-height: 20px;
+      cursor: pointer;
+    }
+    
+    .sands-close-button:hover {
+      background-color: #999;
+      color: #fff;
+    }
+ 
+    .sands-container {
+      display: flex;
+      justify-content: space-between; /* Aligns items with space between them */
+    }
+    
+    .sands-text {
+      flex-grow: 1; /* Allows the text to expand to fill available space */
+    }
+    
+    .sands-button {
+      margin-left: 10px; /* Adds space between text and button */
+      border-radius: 5px;
+    }
+  /* Popup content */
+  .popup-content {
+    text-align: center;
+    padding: 20px;
+   
+  }
+  
+  /* Popup buttons */
+  .popup-buttons {
+    margin-top: 20px;
+  }
+  
+  .popup-buttons button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .popup-buttons button.ok {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .popup-buttons button.cancel {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  
+  /*for Chnage Type*/
+  
+   /* Popup container */
+  .popup-container-change-type {
+    display: none; /* Initially hidden */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+  }
+  
+ 
+  /* Popup content */
+  .popup-content-change-type {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Popup buttons */
+  .popup-buttons-change-type {
+    margin-top: 20px;
+  }
+  
+  .popup-buttons-change-type button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .popup-buttons-change-type button.ok {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .popup-buttons-change-type button.cancel {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  /*For Delete */
+  
+    /* Popup container */
+  .popup-container-delete {
+    display: none; /* Initially hidden */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+  }
+  
+ 
+  /* Popup content */
+  .popup-content-delete {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Popup buttons */
+  .popup-buttons-delete {
+    margin-top: 20px;
+  }
+  
+  .popup-buttons-delete button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .popup-buttons-delete button.ok {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .popup-buttons-delete button.cancel {
+    background-color: #dc3545;
+    color: #fff;
+  }

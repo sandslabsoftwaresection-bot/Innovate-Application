@@ -1,0 +1,5 @@
+[28-Jan-2026 10:42:29 UTC] PHP Notice:  Undefined index: v_allowence_name in /home2/sapphire/innovate.sapphirebh.com/controller/allowence/allowence_controller.php on line 17
+[28-Jan-2026 10:42:29 UTC] PHP Notice:  Undefined index: v_deduction_name in /home2/sapphire/innovate.sapphirebh.com/controller/allowence/allowence_controller.php on line 18
+[28-Jan-2026 10:42:29 UTC] PHP Notice:  Undefined index: v_allowence_id in /home2/sapphire/innovate.sapphirebh.com/controller/allowence/allowence_controller.php on line 19
+[28-Jan-2026 10:42:29 UTC] PHP Notice:  Undefined index: v_approved_status in /home2/sapphire/innovate.sapphirebh.com/controller/allowence/allowence_controller.php on line 20
+[28-Jan-2026 10:42:29 UTC] PHP Notice:  Undefined index: v_deduction_id in /home2/sapphire/innovate.sapphirebh.com/controller/allowence/allowence_controller.php on line 21

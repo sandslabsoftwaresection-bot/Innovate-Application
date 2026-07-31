@@ -1,0 +1,76 @@
+[30-Apr-2024 06:12:22 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 18
+[30-Apr-2024 06:12:22 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 19
+[30-Apr-2024 06:12:22 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 21
+[30-Apr-2024 06:12:22 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 39
+[30-Apr-2024 06:12:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 40
+[30-Apr-2024 06:12:22 UTC] PHP Notice:  Undefined variable: dis_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 380
+[30-Apr-2024 06:12:22 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[30-Apr-2024 06:12:22 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[30-Apr-2024 06:12:22 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[30-Apr-2024 06:12:22 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[03-May-2024 12:01:06 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 18
+[03-May-2024 12:01:06 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 19
+[03-May-2024 12:01:06 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 21
+[03-May-2024 12:01:06 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 39
+[03-May-2024 12:01:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 40
+[03-May-2024 12:01:06 UTC] PHP Notice:  Undefined variable: dis_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 380
+[03-May-2024 12:01:06 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[03-May-2024 12:01:06 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[03-May-2024 12:01:06 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[03-May-2024 12:01:06 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[09-May-2024 07:23:59 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/work_order_print_with_head.php on line 24
+[16-May-2024 10:07:46 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 18
+[16-May-2024 10:07:46 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 19
+[16-May-2024 10:07:46 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 21
+[16-May-2024 10:07:46 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 39
+[16-May-2024 10:07:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 40
+[16-May-2024 10:07:46 UTC] PHP Notice:  Undefined variable: dis_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 380
+[16-May-2024 10:07:46 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[16-May-2024 10:07:46 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[16-May-2024 10:07:46 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[16-May-2024 10:07:46 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[31-May-2024 11:01:02 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 18
+[31-May-2024 11:01:02 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 19
+[31-May-2024 11:01:02 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 21
+[31-May-2024 11:01:02 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 39
+[31-May-2024 11:01:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 40
+[31-May-2024 11:01:02 UTC] PHP Notice:  Undefined variable: dis_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 380
+[31-May-2024 11:01:02 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[31-May-2024 11:01:02 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[31-May-2024 11:01:02 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[31-May-2024 11:01:02 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[31-May-2024 11:36:09 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 18
+[31-May-2024 11:36:09 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 19
+[31-May-2024 11:36:09 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 21
+[31-May-2024 11:36:09 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 39
+[31-May-2024 11:36:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 40
+[31-May-2024 11:36:09 UTC] PHP Notice:  Undefined variable: dis_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 380
+[31-May-2024 11:36:09 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[31-May-2024 11:36:09 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[31-May-2024 11:36:09 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[31-May-2024 11:36:09 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[10-Jun-2024 11:16:59 UTC] PHP Notice:  Undefined variable: contact_address in /home2/sapphire/staging.sapphirebh.com/view/reports/pr_print_with_head.php on line 251
+[10-Jun-2024 11:16:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pr_print_with_head.php on line 345
+[10-Jun-2024 11:16:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/staging.sapphirebh.com/view/reports/pr_print_with_head.php on line 347
+[10-Jun-2024 11:16:59 UTC] PHP Warning:  A non-numeric value encountered in /home2/sapphire/staging.sapphirebh.com/view/reports/pr_print_with_head.php on line 347
+[23-Oct-2024 10:32:00 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 18
+[23-Oct-2024 10:32:00 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 19
+[23-Oct-2024 10:32:00 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 21
+[23-Oct-2024 10:32:00 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 39
+[23-Oct-2024 10:32:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 40
+[23-Oct-2024 10:32:00 UTC] PHP Notice:  Undefined variable: dis_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 380
+[23-Oct-2024 10:32:00 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[23-Oct-2024 10:32:00 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[23-Oct-2024 10:32:00 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[23-Oct-2024 10:32:00 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[23-Oct-2024 10:46:34 UTC] PHP Notice:  Undefined index: attn in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 18
+[23-Oct-2024 10:46:34 UTC] PHP Notice:  Undefined index: project_name in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 19
+[23-Oct-2024 10:46:34 UTC] PHP Notice:  Undefined index: LPO_no in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 21
+[23-Oct-2024 10:46:34 UTC] PHP Notice:  Undefined variable: company_id in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 39
+[23-Oct-2024 10:46:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 40
+[23-Oct-2024 10:46:34 UTC] PHP Notice:  Undefined variable: dis_amt in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 380
+[23-Oct-2024 10:46:34 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[23-Oct-2024 10:46:34 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 429
+[23-Oct-2024 10:46:34 UTC] PHP Notice:  Undefined variable: discount in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[23-Oct-2024 10:46:34 UTC] PHP Notice:  Undefined variable: vat_per in /home2/sapphire/staging.sapphirebh.com/view/reports/local_po_print_with_head.php on line 432
+[22-Oct-2025 11:12:36 UTC] PHP Notice:  Undefined index: subject in /home2/sapphire/staging.sapphirebh.com/view/reports/work_order_print_with_head.php on line 24

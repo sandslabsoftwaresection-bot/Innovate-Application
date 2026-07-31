@@ -1,0 +1,14 @@
+[15-Jun-2025 12:57:32 UTC] PHP Notice:  Undefined index: v_division_name in /home2/sapphire/staging.sapphirebh.com/controller/division/division_controller.php on line 17
+[15-Jun-2025 12:57:32 UTC] PHP Notice:  Undefined index: v_department_name in /home2/sapphire/staging.sapphirebh.com/controller/division/division_controller.php on line 18
+[15-Jun-2025 12:57:32 UTC] PHP Notice:  Undefined index: v_division_id in /home2/sapphire/staging.sapphirebh.com/controller/division/division_controller.php on line 19
+[15-Jun-2025 12:57:32 UTC] PHP Notice:  Undefined index: v_approved_status in /home2/sapphire/staging.sapphirebh.com/controller/division/division_controller.php on line 20
+[15-Jun-2025 12:57:32 UTC] PHP Notice:  Undefined index: v_department_id in /home2/sapphire/staging.sapphirebh.com/controller/division/division_controller.php on line 21
+[24-Feb-2026 06:32:54 UTC] PHP Notice:  Undefined index: v_division_name in /home2/sapphire/innovate.sapphirebh.com/controller/division/division_controller.php on line 17
+[24-Feb-2026 06:32:54 UTC] PHP Notice:  Undefined index: v_department_name in /home2/sapphire/innovate.sapphirebh.com/controller/division/division_controller.php on line 18
+[24-Feb-2026 06:32:54 UTC] PHP Notice:  Undefined index: v_division_id in /home2/sapphire/innovate.sapphirebh.com/controller/division/division_controller.php on line 19
+[24-Feb-2026 06:32:54 UTC] PHP Notice:  Undefined index: v_approved_status in /home2/sapphire/innovate.sapphirebh.com/controller/division/division_controller.php on line 20
+[24-Feb-2026 06:32:54 UTC] PHP Notice:  Undefined index: v_department_id in /home2/sapphire/innovate.sapphirebh.com/controller/division/division_controller.php on line 21
+[24-Mar-2026 13:00:44 UTC] PHP Notice:  Undefined index: v_department_name in /home2/sapphire/innovate.sapphirebh.com/controller/division/division_controller.php on line 18
+[24-Mar-2026 13:00:44 UTC] PHP Notice:  Undefined index: v_division_id in /home2/sapphire/innovate.sapphirebh.com/controller/division/division_controller.php on line 19
+[24-Mar-2026 13:00:44 UTC] PHP Notice:  Undefined index: v_approved_status in /home2/sapphire/innovate.sapphirebh.com/controller/division/division_controller.php on line 20
+[24-Mar-2026 13:00:44 UTC] PHP Notice:  Undefined index: v_department_id in /home2/sapphire/innovate.sapphirebh.com/controller/division/division_controller.php on line 21

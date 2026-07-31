@@ -1,0 +1,43 @@
+[10-Oct-2023 12:09:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/tcpdf.php on line 19698
+[10-Oct-2023 12:09:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/tcpdf.php on line 19730
+[10-Oct-2023 12:11:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/tcpdf.php on line 19698
+[10-Oct-2023 12:11:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/tcpdf.php on line 19730
+[10-Oct-2023 12:11:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/tcpdf.php on line 19698
+[10-Oct-2023 12:11:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/tcpdf.php on line 19730
+[10-Oct-2023 12:48:01 UTC] PHP Fatal error:  Cannot declare class MYPDF, because the name is already in use in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/quotation/index.php on line 176
+[10-Oct-2023 16:29:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/quotation/index.php:300) in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/tcpdf.php on line 7712
+[10-Oct-2023 18:40:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/quotation/index.php on line 106
+[10-Oct-2023 19:18:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/quotation/index.php on line 317
+[18-Oct-2023 06:14:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/quotation/index.php on line 106
+[18-Oct-2023 06:14:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/quotation/index.php on line 106
+[18-Oct-2023 06:15:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/quotation/index.php on line 106
+[18-Oct-2023 07:17:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 103
+[18-Oct-2023 07:17:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 103
+[18-Oct-2023 07:18:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 103
+[18-Oct-2023 07:19:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 103
+[18-Oct-2023 07:22:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 103
+[18-Oct-2023 07:30:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 07:36:27 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 07:40:08 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 07:41:18 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 07:42:36 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 07:43:04 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 07:43:38 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 07:50:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 07:53:34 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 07:58:05 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 07:58:32 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 07:59:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 08:00:56 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 08:01:24 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 08:01:40 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 08:03:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 08:04:06 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 08:04:36 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 08:06:13 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 08:08:33 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 08:09:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 08:09:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/tcpdf.php on line 19698
+[18-Oct-2023 08:09:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/tcpdf.php on line 19730
+[18-Oct-2023 08:12:49 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232
+[18-Oct-2023 08:13:32 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/delivery_note/index.php on line 232

@@ -1,0 +1,64 @@
+RewriteEngine on
+
+# Allow only the specified IP
+RewriteCond %{REMOTE_ADDR} !^88\.201\.42\.115$
+RewriteCond %{REMOTE_ADDR} !^117\.221\.65\.74$
+RewriteCond %{REMOTE_ADDR} !^117\.193\.32\.33$
+RewriteCond %{REMOTE_ADDR} !^109\.161\.166\.242$
+RewriteCond %{REMOTE_ADDR} !^109\.63\.9\.243$
+RewriteCond %{REMOTE_ADDR} !^103\.203\.72\.195$
+RewriteCond %{REMOTE_ADDR} !^120\.61\.184\.118$
+RewriteCond %{REMOTE_ADDR} !^94\.76\.14\.180$
+RewriteCond %{REMOTE_ADDR} !^117\.221\.153\.229$
+RewriteRule ^.*$ https://sapphirebh.com/access.php [R=302,L]
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php8_module>
+   php_flag log_errors Off
+</IfModule>
+<IfModule lsapi_module>
+   php_flag log_errors Off
+</IfModule>
+# END cPanel-generated php ini directives, do not edit
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php7_module>
+   php_flag log_errors Off
+   php_flag display_errors Off
+   php_value max_execution_time 60
+   php_value max_input_time -1
+   php_value max_input_vars 1000
+   php_value memory_limit 512M
+   php_value post_max_size 8M
+   php_value session.gc_maxlifetime 1440
+   php_value session.save_path "/home2/sapphire/innovate.sapphirebh.com/session/"
+   php_value upload_max_filesize 1024M
+   php_flag zlib.output_compression Off
+</IfModule>
+<IfModule lsapi_module>
+   php_flag log_errors Off
+   php_flag display_errors Off
+   php_value max_execution_time 60
+   php_value max_input_time -1
+   php_value max_input_vars 1000
+   php_value memory_limit 512M
+   php_value post_max_size 8M
+   php_value session.gc_maxlifetime 1440
+   php_value session.save_path "/home2/sapphire/innovate.sapphirebh.com/session/"
+   php_value upload_max_filesize 1024M
+   php_flag zlib.output_compression Off
+</IfModule>
+# END cPanel-generated php ini directives, do not edit
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “alt-php74” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-alt-php74 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

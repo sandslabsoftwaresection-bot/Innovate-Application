@@ -1,0 +1,92 @@
+ /* Popup container */
+  .popup-container {
+    display: none; /* Initially hidden */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 0px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    width: 70%; /* Default width for larger screens */
+    max-width: 500px; /* Maximum width for smaller screens */
+    margin: 0 auto; /* Center align horizontally */
+  }
+  /* Media query for smaller screens */
+    @media screen and (max-width: 768px) {
+        .popup-container {
+            width: 90%; /* Adjusted width for smaller screens */
+        }
+    }
+  
+  /* Popup overlay */
+  .popup-overlay {
+    display: none; /* Initially hidden */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+  }
+  
+  /* Popup content */
+  .popup-content {
+    text-align: center;
+    padding :20px;
+  }
+  
+  /* Popup buttons */
+  .popup-buttons {
+    margin-top: 20px;
+  }
+  
+  .popup-buttons button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .popup-buttons button.ok {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .popup-buttons button.cancel {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+.popup-header {
+    padding: 10px; /* Padding around the header content */
+    font-size: 16px; /* Font size */
+    font-weight: bold; /* Bold font weight */
+    text-align: left; /* Center align the text */
+    border-radius: 5px 5px 0 0; /* Rounded corners for the top */
+    color: #ffffff; /* White text color */
+}
+
+.popup-header.success {
+    background-color: #60A200; /* Green background color for success */
+}
+
+.popup-header.danger {
+    background-color: #C70039; /* Red background color for danger */
+}
+
+.popup-header.warning {
+    background-color: #FFC300; /* Yellow background color for warning */
+}
+
+.popup-header.info {
+    background-color: #045BC3; /* Blue background color for info */
+}
+
+.popup-header {
+    cursor: move; /* Set cursor to move */
+}

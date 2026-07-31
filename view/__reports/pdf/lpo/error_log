@@ -1,0 +1,7 @@
+[18-Oct-2023 08:32:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/lpo/index.php on line 107
+[18-Oct-2023 08:34:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/lpo/index.php on line 107
+[18-Oct-2023 08:54:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/lpo/index.php on line 107
+[18-Oct-2023 08:58:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/lpo/index.php on line 107
+[18-Oct-2023 08:58:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/lpo/index.php on line 107
+[18-Oct-2023 08:59:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/lpo/index.php on line 107
+[18-Oct-2023 09:05:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/innovate.sapphirebh.com/view/reports/pdf/lpo/index.php on line 107
